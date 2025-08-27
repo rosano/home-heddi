@@ -1,0 +1,17 @@
+# NODE
+node_modules
+package-lock.json
+
+# BUILD
+**/__*/*
+.hugo_build.lock
+public
+resources
+
+# LOCAL
+.env*
+!.env-sample
+
+# DEPLOY
+.gitmodules
+themes/home*

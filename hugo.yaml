@@ -1,0 +1,7 @@
+title: Heddi
+
+theme:
+  - home-unconfig
+  - home
+
+_merge: deep
