@@ -1,5 +1,5 @@
 ---
-collection: Capoeira
+collection: capoeira
 ---
 # agua pra beber
 
