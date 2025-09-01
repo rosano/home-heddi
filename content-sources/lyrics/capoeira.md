@@ -17,86 +17,86 @@ agua de oxala
 
 # eu sou angoleiro
 
-Eu sou Angoleiro
+eu sou Angoleiro
 Angoleiro sei que eu sou
-Eu sou Angoleiro
+eu sou Angoleiro
 Angoleiro de valor
-Eu sou Angoleiro
+eu sou Angoleiro
 Angoleiro é meu nome
-Eu sou Angoleiro
+eu sou Angoleiro
 Angoleiro, sim senhor
 
 # beira mar io iô, beira mar ia iá
 
-Beira mar io iô, beira mar ia iá
-(Beira mar io iô, beira mar ia iá)
-Beira mar, beira mar
-(É de io iô)
-Beira mar, beira mar
-(É de ia iá)
-Beira mar, beira mar
-(É de io iô)
-Beira mar, beira mar
-(É de ia iá)
+beira mar io iô, beira mar ia iá
+(beira mar io iô, beira mar ia iá)
+beira mar, beira mar
+(é de io iô)
+beira mar, beira mar
+(é de ia iá)
+beira mar, beira mar
+(é de io iô)
+beira mar, beira mar
+(é de ia iá)
 
 # xô xô meu canário
 
-Xô xô meu canário
-Meu canário é cantador
-Xô xô meu canário
-Foi embora e me deixou
-Xô xô meu canário
-Meu canário é da Alemanha
-Xô xô meu canário
-Nego velho também apanha
-Xô xô meu canário
+xô xô meu canário
+meu canário é cantador
+xô xô meu canário
+foi embora e me deixou
+xô xô meu canário
+meu canário é da Alemanha
+xô xô meu canário
+nego velho também apanha
+xô xô meu canário
 Alemão que me mandou
 
 # sai sai catarina
 
-Sai sai Catarina
-Saia do mar venha ver Idalina
-Sai sai Catarina
-Saia do mar venha ver, venha ver
-Sai sai Catarina
-Oh Catarina, meu amor
-Sai sai Catarina
-Saia do mar, saia do mar
-Sai sai Catarina
-Oh Catarina venha ver
-Sai sai Catarina
-O Catarina vem a ca
-Sai sai Catarina,
+sai sai Catarina 
+saia do mar venha ver Idalina
+sai sai Catarina 
+saia do mar venha ver, venha ver 
+sai sai Catarina 
+oh Catarina, meu amor 
+sai sai Catarina 
+saia do mar, saia do mar 
+sai sai Catarina 
+oh Catarina venha ver 
+sai sai Catarina 
+o Catarina vem a ca
+sai sai Catarina,
 Catarina minha nega
 
-# canarinho da alemanha
+# canarinho da Alemanha
 
-Canarinho da Alemanha,
-Quem matou meu curió ?
-Quem tem fé em Deus
+canarinho da Alemanha,
+quem matou meu curió ?
+quem tem fé em Deus
 nunca cai em bozó
-Canarinho da Alemanha
-Quem matou meu curió ?
-Eu jogo capoeira,
+canarinho da Alemanha
+quem matou meu curió ?
+eu jogo capoeira,
 mas Pastinha é o maior
-Canarinho da Alemanha
-Quem matou meu curió ?
-O segredo da lua,
-Quem sabe é o clarão do sol
-Canarinho da Alemanha
-Quem matou meu curió ?
-Eu jogo capoeira
-Na Bahia e em Maceió
+canarinho da Alemanha
+quem matou meu curió ?
+o segredo da lua,
+quem sabe é o clarão do sol
+canarinho da Alemanha
+quem matou meu curió ?
+eu jogo capoeira
+na Bahia e em Maceió
 
-# ai ai ai dê
+# ai ai aidê
 
-Ai ai ai dê
-Dona Maria como vai vosmecê
-Joga bonito que eu quero aprender
-Era eu era meu mano
-Quando nos andava junto
-Eu não sei se Deus consente
-Numa cova dois defuntos
+ai ai aidê
+dona Maria como vai vosmecê
+joga bonito que eu quero aprender
+era eu era meu mano
+quando nos andava junto
+eu não sei se Deus consente
+numa cova dois defuntos
 
 # a e i o u
 
@@ -120,12 +120,12 @@ eu quero vê a minha rede balançar
 balança a rede ioio
 balança a rede iaia
 
-Tem dias que eu tô na varanda
+tem dias que eu tô na varanda
 tem dias que eu vou vadiar
-Tem dias que eu tô na varanda
+tem dias que eu tô na varanda
 tem dias que eu vou vadiar
-Angola ê, angola ê, angola ê, angola
-Angola ê, angola ê, angola ê, angola
+Angola ê, Angola ê, Angola ê, Angola
+Angola ê, Angola ê, Angola ê, Angola
 
 https://www.youtube.com/watch?v=rCpm1JZmkls
 https://capoeiraabc.com/2019/01/14/eu-vou-botar-minha-rede-na-varanda/
@@ -133,7 +133,7 @@ https://www.letras.mus.br/tony-pitoco-e-formiga/tem-dias-que-eu-vou-vadiar/
 
 # ave maria meu deus, nunca vi casa nova cair
 
-Ave Maria meu Deus
+ave Maria meu Deus
 nunca vi casa nova cair
 nunca vi casa nova cair
 nunca vi casa nova cair
