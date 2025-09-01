@@ -1,30 +1,12 @@
 ---
 collection: capoeira
 ---
-# agua pra beber
+# é de ioio, É de iaia
 
-agua pra lavar
-agua pra beber
-agua pra lavar
-agua pra beber
-
-variation
-
-agua de ogum
-ague de iemanja
-agua de oxem
-agua de oxala
-
-# eu sou angoleiro
-
-eu sou Angoleiro
-Angoleiro sei que eu sou
-eu sou Angoleiro
-Angoleiro de valor
-eu sou Angoleiro
-Angoleiro é meu nome
-eu sou Angoleiro
-Angoleiro, sim senhor
+é de ioio
+é de iaia
+capoeira de Angola joga
+lá na beira do mar
 
 # beira mar io iô, beira mar ia iá
 
@@ -38,6 +20,17 @@ beira mar, beira mar
 (é de io iô)
 beira mar, beira mar
 (é de ia iá)
+
+# eu sou angoleiro
+
+eu sou Angoleiro
+Angoleiro sei que eu sou
+eu sou Angoleiro
+Angoleiro de valor
+eu sou Angoleiro
+Angoleiro é meu nome
+eu sou Angoleiro
+Angoleiro, sim senhor
 
 # xô xô meu canário
 
@@ -141,3 +134,17 @@ nunca vi casa nova cair
 - eu só vi casa velha cair, eu só vi casa velha cair
 - eu ja vi casa velha cair, nunca vi casa nova cair
 - nunca vi casa nova cair, quero ver casa nova cair
+
+# agua pra beber
+
+agua pra lavar
+agua pra beber
+agua pra lavar
+agua pra beber
+
+variation
+
+agua de ogum
+ague de iemanja
+agua de oxem
+agua de oxala
