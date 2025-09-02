@@ -21,6 +21,14 @@ beira mar, beira mar
 beira mar, beira mar
 (é de ia iá)
 
+# foi na beira do mar
+
+foi na beira do mar
+foi na beira do mar
+aprendi a jogar
+Capoeira de Angola
+na beira do mar
+
 # eu sou angoleiro
 
 eu sou Angoleiro
@@ -148,3 +156,12 @@ agua de ogum
 ague de iemanja
 agua de oxem
 agua de oxala
+
+# santo antônio é protetor
+
+santo Antônio é protetor
+é protetor é protetor
+- da barquinha de Noé
+- protetor dos Angoleiros
+- protetor do meu amor
+- protetor da Capoeira
