@@ -1,12 +1,70 @@
 ---
 collection: capoeira
 ---
+# ave maria meu deus, nunca vi casa nova cair
+
+ave Maria meu Deus
+nunca vi casa nova cair
+nunca vi casa nova cair
+nunca vi casa nova cair
+
+- eu só vi casa velha cair, eu só vi casa velha cair
+- eu ja vi casa velha cair, nunca vi casa nova cair
+- nunca vi casa nova cair, quero ver casa nova cair
+
+# pra lavar minha roupa não tem sabão
+
+pra lavar minha roupa não tem sabão
+
+- não tem sabão, não tem sabão
+- não tem sabão, não suja não
+- a roupa branca, não suja não
+
 # é de ioio, É de iaia
 
 é de ioio
 é de iaia
 capoeira de Angola joga
 lá na beira do mar
+
+# Chama eu, chama eu
+
+Chama eu, chama eu
+Chama eu Angola, chama eu
+(Chama eu, chama eu
+Chama eu Angola, chama eu)
+Bahia, minha Bahia
+Capital é Salvador
+Quem não conhece a capoeira
+Não pode dar o seu valor
+(Chama eu, chama eu
+Chama eu Angola, chama eu)
+Bahia de seu Caiçara
+De Traíra e seu Maré
+Bahia de Canjequinha
+De Pastinha e seu Gajé
+(Chama eu, chama eu
+Chama eu Angola, chama eu)
+
+# Angola chama seu povo
+
+Angola chama seu povo
+chama eu, chama
+é chama de um a um
+chama eu, chama
+Angola chama seu povo
+chama eu, chama
+Era eu era meu mano
+chama eu, chama
+é quando nois andava junto
+chama eu, chama
+Oi Senzala e Sagui
+chama eu, chama
+oia nunca se perdeu
+chama eu, chama
+
+https://viuvacapoeirablog.fr/2023/02/09/Angola-chama-seu-povo/
+https://soundcloud.com/tom-estrelinha-haion/Angola-chama
 
 # beira mar io iô, beira mar ia iá
 
@@ -131,17 +189,6 @@ Angola ê, Angola ê, Angola ê, Angola
 https://www.youtube.com/watch?v=rCpm1JZmkls
 https://capoeiraabc.com/2019/01/14/eu-vou-botar-minha-rede-na-varanda/
 https://www.letras.mus.br/tony-pitoco-e-formiga/tem-dias-que-eu-vou-vadiar/
-
-# ave maria meu deus, nunca vi casa nova cair
-
-ave Maria meu Deus
-nunca vi casa nova cair
-nunca vi casa nova cair
-nunca vi casa nova cair
-
-- eu só vi casa velha cair, eu só vi casa velha cair
-- eu ja vi casa velha cair, nunca vi casa nova cair
-- nunca vi casa nova cair, quero ver casa nova cair
 
 # agua pra beber
 
