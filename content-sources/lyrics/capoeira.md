@@ -212,3 +212,11 @@ santo Antônio é protetor
 - protetor dos Angoleiros
 - protetor do meu amor
 - protetor da Capoeira
+
+# maré maré
+
+- maré baixa, maré alta
+- maré que enche e que vaza
+- maré que vem, maré que vai
+- vou pra ilha de maré
+- olha a baixa da maré
