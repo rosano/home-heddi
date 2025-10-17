@@ -1,5 +1,7 @@
 ---
-collection: capoeira
+collection: sing
+topic:
+  - capoeira
 ---
 # ave maria meu deus, nunca vi casa nova cair
 
@@ -19,13 +21,6 @@ pra lavar minha roupa não tem sabão
 - não tem sabão, não tem sabão
 - não tem sabão, não suja não
 - a roupa branca, não suja não
-
-# é de ioio, É de iaia
-
-é de ioio
-é de iaia
-capoeira de Angola joga
-lá na beira do mar
 
 # Chama eu, chama eu
 
@@ -54,49 +49,17 @@ chama eu, chama
 chama eu, chama
 Angola chama seu povo
 chama eu, chama
-Era eu era meu mano
+era eu era meu mano
 chama eu, chama
 é quando nois andava junto
 chama eu, chama
-Oi Senzala e Sagui
+oi Senzala e Sagui
 chama eu, chama
 oia nunca se perdeu
 chama eu, chama
 
 https://viuvacapoeirablog.fr/2023/02/09/Angola-chama-seu-povo/
 https://soundcloud.com/tom-estrelinha-haion/Angola-chama
-
-# beira mar io iô, beira mar ia iá
-
-beira mar io iô, beira mar ia iá
-(beira mar io iô, beira mar ia iá)
-beira mar, beira mar
-(é de io iô)
-beira mar, beira mar
-(é de ia iá)
-beira mar, beira mar
-(é de io iô)
-beira mar, beira mar
-(é de ia iá)
-
-# foi na beira do mar
-
-foi na beira do mar
-foi na beira do mar
-aprendi a jogar
-Capoeira de Angola
-na beira do mar
-
-# eu sou angoleiro
-
-eu sou Angoleiro
-Angoleiro sei que eu sou
-eu sou Angoleiro
-Angoleiro de valor
-eu sou Angoleiro
-Angoleiro é meu nome
-eu sou Angoleiro
-Angoleiro, sim senhor
 
 # xô xô meu canário
 
@@ -157,13 +120,6 @@ quando nos andava junto
 eu não sei se Deus consente
 numa cova dois defuntos
 
-# a e i o u
-
-A E I O U
-U O I E A
-A E I O U
-capoeira vem jogar
-
 # oi sim, sim sim
 
 oi sim, sim sim
@@ -171,6 +127,13 @@ oi não, não, não
 
 hoje tem amanhá não
 hoje tem amanhá não
+
+# a e i o u
+
+A E I O U
+U O I E A
+A E I O U
+capoeira vem jogar
 
 # Eu vou botar minha rede na varanda
 
@@ -189,34 +152,3 @@ Angola ê, Angola ê, Angola ê, Angola
 https://www.youtube.com/watch?v=rCpm1JZmkls
 https://capoeiraabc.com/2019/01/14/eu-vou-botar-minha-rede-na-varanda/
 https://www.letras.mus.br/tony-pitoco-e-formiga/tem-dias-que-eu-vou-vadiar/
-
-# agua pra beber
-
-agua pra lavar
-agua pra beber
-agua pra lavar
-agua pra beber
-
-variation
-
-agua de ogum
-ague de iemanja
-agua de oxem
-agua de oxala
-
-# santo antônio é protetor
-
-santo Antônio é protetor
-é protetor é protetor
-- da barquinha de Noé
-- protetor dos Angoleiros
-- protetor do meu amor
-- protetor da Capoeira
-
-# maré maré
-
-- maré baixa, maré alta
-- maré que enche e que vaza
-- maré que vem, maré que vai
-- vou pra ilha de maré
-- olha a baixa da maré
