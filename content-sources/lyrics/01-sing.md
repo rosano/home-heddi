@@ -3,6 +3,32 @@ collection: sing
 topic:
   - capoeira
 ---
+# maré maré
+
+- maré baixa, maré alta
+- maré que enche e que vaza
+- maré que vem, maré que vai
+- vou pra ilha de maré
+- olha a baixa da maré
+
+# agua do rio que corre pro mar
+
+agua do rio que corre pro mar
+- chama meu mano pra nos vadiar
+- que corre pro mar, que corre pro mar
+- agua do rio que corre pro mar
+- me leva pro mar, me leva pro mar
+
+video: https://www.youtube.com/watch?v=N97vg2SOBLQ
+
+# saia do mar minha sereia
+
+saia do mar minha sereia
+- saia do mar venha dançar na areia
+- saia do mar venha brincar na areia
+- saia do mar venha cantar na areia
+- saia do mar venha jogar na areia
+
 # ave maria meu deus, nunca vi casa nova cair
 
 ave Maria meu Deus
