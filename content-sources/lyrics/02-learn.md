@@ -3,13 +3,6 @@ collection: learn
 topic:
   - capoeira
 ---
-# maré maré
-
-- maré baixa, maré alta
-- maré que enche e que vaza
-- maré que vem, maré que vai
-- vou pra ilha de maré
-- olha a baixa da maré
 
 # lá no céu tem três estrelas
 
